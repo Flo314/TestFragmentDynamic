@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestFragmentDynamic</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="textView1">!!! FRAGMENT 1 !!!</string>
+    <string name="textView2">!!! FRAGMENT 2 !!!</string>
+    <string name="send">SEND</string>
+    <string name="quit">QUIT</string>
+</resources>
